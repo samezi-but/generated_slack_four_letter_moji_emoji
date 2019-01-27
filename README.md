@@ -1,1 +1,2 @@
-# generated_slack_four_letter_moji_emoji
+Slackにおいて、４文字でリアクションをするのに特化した絵文字を集積しました。
+https://emoji-gen.ninja/#!/　などを使って生成してプルリクをくださると幸いです。
