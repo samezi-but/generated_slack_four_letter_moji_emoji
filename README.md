@@ -1,0 +1,1 @@
+# generated_slack_four_letter_moji_emoji
